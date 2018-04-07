@@ -1,13 +1,13 @@
 {
-  "name": "dinnerplanner-html",
+  "name": "dinnerplanner",
   "version": "1.0.0",
   "description": "Lab in DH2642 @ KTH",
   "main": "src/App.jsx",
-  "repository": "https://solidfox@github.com/solidfox/dinnerplanner-html.git",
-  "author": "Daniel Schlaug <daniel.schlaug@gmail.com>",
+  "repository": "https://guptasiddhant@github.com/guptasiddhant/dinnerplanner.git",
+  "author": "Siddhant Gupta <sidgup@kth.se>",
   "license": "MIT",
   "private": true,
-  "homepage": "https://solidfox.github.io/dinnerplanner",
+  "homepage": "http://git.guptasiddhant.com/dinnerplanner/",
   "dependencies": {
     "bootstrap": "^4.0.0",
     "immutable": "^4.0.0-rc.9",
